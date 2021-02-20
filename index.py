@@ -9,9 +9,6 @@
 #Setup libs
 import RPi.GPIO as GPIO
 import dht11
-import time
-from time import sleep
-import os
 
 #Setup i/o
 GPIO.setwarnings(False)
